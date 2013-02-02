@@ -1,4 +1,4 @@
-projekt-2014
+Projekt 2014
 ============
 
-Projekt 2014 Taktik
+Taktik von Projekt 2014
