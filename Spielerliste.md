@@ -27,6 +27,8 @@ jenlan (LM)
 
 Davschle (ZOM, LM/RM)
 
+Alfr3d84 (ZM, ZOM, LM/RM)
+
 Bapumba (ZOM, ZDM, LM/RM, ST)
 
 Sturm
