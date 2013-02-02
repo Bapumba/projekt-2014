@@ -1,6 +1,9 @@
 Spielerliste
 ==========
 
+Verteidigung
+----------
+
 Nimra (TW, RV, RM)
 
 Cheezy91 (IV)
@@ -10,6 +13,9 @@ N1ck (IV, ST, ZOM)
 DerGraf (Allrounder)
 
 Siggi (AV, LM/RM)
+
+Mittelfeld
+----------
 
 Naviq (ZDM)
 
@@ -22,6 +28,9 @@ jenlan (LM)
 Davschle (ZOM, LM/RM)
 
 Bapumba (ZOM, ZDM, LM/RM, ST)
+
+Sturm
+----------
 
 derm4rk (ST)
 
