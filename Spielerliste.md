@@ -4,7 +4,7 @@ Spielerliste
 Verteidigung
 ----------
 
-Nimra (TW, RV, RM)
+Nimra (TW, AV, Flügel)
 
 Cheezy91 (IV)
 
@@ -12,24 +12,24 @@ N1ck (IV, ST, ZOM)
 
 DerGraf (Allrounder)
 
-Siggi (AV, LM/RM)
+Siggi (AV, Flügel)
 
 Mittelfeld
 ----------
 
 Naviq (ZDM)
 
-Rooky (ZDM, LM/RM)
+Rooky (ZDM, Flügel)
 
-iLLu (RM)
+iLLu (Flügel)
 
-jenlan (LM)
+jenlan (Flügel)
 
-Davschle (ZOM, LM/RM)
+Davschle (ZOM, Flügel)
 
-Alfr3d84 (ZOM, ZM, LM/RM)
+Alfr3d84 (ZOM, ZM, Flügel)
 
-Bapumba (ZOM, ZDM, LM/RM, ST)
+Bapumba (ZOM, ZDM, Flügel, ST)
 
 Sturm
 ----------
