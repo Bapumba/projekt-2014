@@ -4,3 +4,4 @@
 ## Benny:   ZDM / Sturm / RM
 ## Stefan:  ZOM / ZM / ZDM
 ## Armin:   RV / TW / Flügelflitzer
+## Siggi:   ZDM / LM/ / LS 
