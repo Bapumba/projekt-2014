@@ -7,4 +7,4 @@
 ## Siggi:   ZDM / LM/ / LS 
 ## R4:      ST / ZOM / IV
 ## Jonas:   IV / ZDM/ ST
-## 
+## Graf:    ZDM / ZOM / ST (Allrounder)
