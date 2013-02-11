@@ -1,4 +1,5 @@
 # Wunschpositionen
 
-## Simon: zom, sturm, außen
-## Benny: zdm, st, rm
+## Simon:   ZOM / Sturm / Außen
+## Benny:   ZDM / Sturm / RM
+## Stefan:  ZOM / ZM / ZDM
