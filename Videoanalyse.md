@@ -1,9 +1,7 @@
-# Quelle
-
-http://de.twitch.tv/thedoedelkopp/b/365724414
-
 # Videoanalyse 
 ## 2:1 Sieg
+
+### http://de.twitch.tv/thedoedelkopp/b/365724414
 
 ### Gute Aktionen
 * 0:20 – Simon von Innen nach Außen (RM gut angeboten), auf dem Flügel gut durchgesetzt, Flanke war gut (Leider kein Tor).
@@ -15,3 +13,8 @@ http://de.twitch.tv/thedoedelkopp/b/365724414
 * 2:07 – Illu rennt unnötiger weise ins getümmel in der Mitte. Zuvor hält Stefan den ball zulange anstatt mark anzuspielen der lange freisteht (Ball laufen lassen anstatt selbst zu laufen)
 * 
 
+## 0:0 Unentschieden
+
+### http://de.twitch.tv/thedoedelkopp/b/365743909
+
+* 12:10 - iLLu typischer Stellungsfehler defensiv zu weit innen und zu weit vorne, Gegenspieler ist rot eingekreist
