@@ -4,8 +4,6 @@ Spielerliste
 Verteidigung
 ----------
 
-Nimra (TW, AV, Flügel)
-
 Cheezy91 (IV)
 
 N1ck (IV, ST, ZOM)
