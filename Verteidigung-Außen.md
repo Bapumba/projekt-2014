@@ -1,4 +1,4 @@
 Außenverteidigung
 ==========
 
-Taktik usw.
+Immer "Weiter Einwurf" als Eigenschaft an
