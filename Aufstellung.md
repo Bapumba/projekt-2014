@@ -3,12 +3,12 @@ Stammteam
 Formation: 4-2-3-1
 
 
-|   |    | CPU |    |     |
-|:-:|:-:|:-:|:-:|:-:|
-| Benny |  R4  | | Johnny | Illu |
-|   |  | Naviq  |  Alfr3d |  |
-| M4rk | | Davschle | | Simon |
-|   |   |  Nick |  |  |
+| | | | CPU | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Benny | | R4 | | Johnny | | Illu |
+| | | Naviq | | | Alfr3d | |
+| M4rk | | | Davschle | | | Simon |
+| | | | N1ck | | | |
 
 
 
@@ -26,8 +26,8 @@ Benny   - ST
 R4      - LOM
 Johnny  - ZDM
 Illu    - LOM/ROM
-Kev     - LV/RV
-Stef    - ZOM
-Mark    - ZDM
-Simon   - ZOM
-Nick    - IV,ZDM,ZOM
+Naviq   - LV/RV
+Alfr3d  - ZOM
+M4rk    - ZDM
+Bapumba - ZOM
+N1ck    - IV,ZDM,ZOM
