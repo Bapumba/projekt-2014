@@ -6,11 +6,8 @@ Formation: 4-2-3-1
 |   |    | CPU |    |     |
 |:-:|:-:|:-:|:-:|:-:|
 | Benny |  R4  | | Johnny | Illu |
-
 |     | Naviq | Alfr3d |   |
-
 | M4rk | | Davschle | | Simon |
-
 |   |   |  Nick |  |  |
 
 
