@@ -7,7 +7,7 @@ Formation: 4-2-3-1
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Benny | | R4 | | Johnny | | Illu |
 | | | Naviq | | Alfr3d | | |
-| M4rk | | | Davschle | | | Simon |
+| M4rk | | | Dav | | | Simon |
 | | | | N1ck | | | |
 
 
